@@ -27,7 +27,6 @@ My passion lies in crafting exceptional products by adhering to the best practic
 For the other side, I love to **build team and mentoring teammates**, sharing my knowledge and experience with all, there is nothing I like more than seeing your team grow and improve.
 
 
-My ♥️:
 <p>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
